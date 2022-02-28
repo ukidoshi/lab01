@@ -132,3 +132,7 @@ $ gist REPORT.md
 ```
 Copyright (c) 2015-2021 The ISC Authors
 ```
+
+## Сарыглар Начын Лаба 1:
+![alt tag](https://imgur.com/a/6IPCQit "Tutorial")
+
