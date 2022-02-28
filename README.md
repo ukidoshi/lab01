@@ -134,20 +134,39 @@ Copyright (c) 2015-2021 The ISC Authors
 ```
 
 ## Сарыглар Начын Лаба 1:
+
+# Tutorioal
+
 ![alt text](rBdFpx5MK0w.jpeg "Tutorial")
+
+# Пункт 1-2
 
 ![alt text](пункт 1-2.jpeg "Пункт 1-2")
 
+# Пункт 3-4
+
 ![alt text](пункт 3-4.jpeg "Пункт 3-4")
+
+# Пункт 5
 
 ![alt text](пункт 5.jpeg "Пункт 5")
 
+# Пункт 6
+
 ![alt text](пункт 6.jpeg "Пункт 6")
+
+# Пункт 7
 
 ![alt text](пункт 7.jpeg "Пункт 7")
 
+# Пункт 8-9
+
 ![alt text](пункт 8-9.jpeg "Пункт 8-9")
 
+# Пункт 10
+
 ![alt text](пункт 10.jpeg "Пункт 10")
+
+# Пункт 11
 
 ![alt text](пункт 11.jpeg "Пункт 11")
