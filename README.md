@@ -133,7 +133,7 @@ $ gist REPORT.md
 Copyright (c) 2015-2021 The ISC Authors
 ```
 
-## Сарыглар Начын Лаба 1:
+## Мякин В.В. Лаба 1:
 
 # Tutorial
 
